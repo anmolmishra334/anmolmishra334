@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @anmolmishra334
 - 👀 I’m interested in ...Devops field
-- 🌱 I’m currently learning ... Git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinkedIN Anmol Mishra
 - 😄 Pronouns: ...
