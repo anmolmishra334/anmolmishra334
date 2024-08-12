@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anmolmishra334
-- 👀 I’m interested in becoming Devops Engineer 
+- 👀 I’m a Devops Engineer 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinkedIN Anmol Mishra https://www.linkedin.com/in/anmol-mishra-615366188/
 - 😄 Pronouns: ...
